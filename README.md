@@ -1,4 +1,4 @@
-## Graph Embedded Contrastive Learning for Multi-View Clustering
+# GMVC: Graph Embedded Contrastive Learning for Multi-View Clustering
 
 ## Installation
 * pip install -r requirements.txt 
